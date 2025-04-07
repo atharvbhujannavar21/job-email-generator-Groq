@@ -7,21 +7,26 @@ This project is an intelligent cold email generator built using the Groq large l
 ## 🚀 Features
 
 - Uses Groq LLM for generating high-quality, context-aware emails.
+- Uses Streamlit for web based generation.
 - Stores and retrieves portfolio/project info using Chroma DB.
 - Easy-to-use interface through a Jupyter Notebook.
 - Supports dynamic customization based on job roles or companies.
 
-## 🛠️ Installation
+## 🛠️ HOW TO RUN
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/atharvbhujannavar21/job-email-generator-Groq.git
    cd job-email-generator-Groq
+2. **Install requirements**:
+   ```bash
    pip install requirement.txt
+3. **Run the file**:
+   ```bash
    python -m streamlit run app/main.py
 
 📁 Files
-cold email gen.ipynb: Main notebook for generating emails.
+cold email gen.ipynb:  notebook for generating emails.
 
 my_portfolio.csv: Sample data about your projects/skills.
 
