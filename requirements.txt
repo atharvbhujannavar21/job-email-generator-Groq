@@ -1,0 +1,6 @@
+jupyter
+pandas
+numpy
+chromadb
+groq
+python-dotenv

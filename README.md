@@ -17,6 +17,7 @@ This project is an intelligent cold email generator built using the Groq large l
    ```bash
    git clone https://github.com/atharvbhujannavar21/job-email-generator-Groq.git
    cd job-email-generator-Groq
+   pip install requirement.txt
 
 📁 Files
 cold email gen.ipynb: Main notebook for generating emails.
