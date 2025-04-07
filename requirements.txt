@@ -1,6 +1,9 @@
-jupyter
-pandas
-numpy
+langchain
+langchain-community
+langchain-groq
+unstructured
+selenium
 chromadb
-groq
+streamlit
+pandas
 python-dotenv
